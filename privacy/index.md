@@ -200,8 +200,8 @@ Appleにおける購入情報の取り扱いについては、Appleのプライ�
 
 [tilori@tokitomoworks.com](mailto:tilori@tokitomoworks.com)
 
-制定日：公開時に設定
-最終改定日：2026-09-22
+制定日：2026年9月26日
+最終改定日：2026年09月22日
 
 ---
 
@@ -403,5 +403,5 @@ For inquiries, please use the email address below.
 
 [tilori@tokitomoworks.com](mailto:tilori@tokitomoworks.com)
 
-Effective date: to be set at release
-Last updated: 2026-09-22
+Effective date: September 26, 2026
+Last updated: September 22, 2026
